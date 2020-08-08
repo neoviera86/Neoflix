@@ -1,63 +1,63 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Pablo Marçal",
+      "link": "https://www.youtube.com/c/PabloMar%C3%A7al/videos",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Desbloqueio de Identidade",
+        "url": "https://www.youtube.com/c/PabloMar%C3%A7al/videos"
       },
       "videos": [
         {
-          "titulo": "Dark souls 2 todos os itens 100% Parte 1",
-          "url": "https://www.youtube.com/watch?v=bevVrnVXHGU"
+          "titulo": "Atomic Brain - Como explodir sua ogiva cerebral",
+          "url": "https://www.youtube.com/watch?v=NBSBitxwOl8"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=bevVrnVXHGU"
+          "titulo": "Clube 459",
+          "url": "https://www.youtube.com/watch?v=t-5pcHU7IHU"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "5 Pilares da Vida",
+          "url": "https://www.youtube.com/watch?v=VntX6XtM9m0"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Titi Cast",
+          "url": "https://www.youtube.com/watch?v=zybrQcjwegE"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Método IP",
+          "url": "https://www.youtube.com/watch?v=BfJXg98f4P8"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Saia do Caixão",
+          "url": "https://www.youtube.com/watch?v=q-PCuqku1gA"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "A Maior Treta do Universo",
+          "url": "https://www.youtube.com/watch?v=STLErARX4rI"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "O Remédio",
+          "url": "https://www.youtube.com/watch?v=RUqAaohexqY"
         }        
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Primo Rico",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Aprenda a Alcançar a Liberdade Financeira",
+        "url": "https://www.youtube.com/channel/UCT4nDeU5pv1XIGySbSK-GgA"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Aprenda a Alcançar a Liberdade Financeira",
+          "url": "https://www.youtube.com/watch?v=CBpJqmj90QY"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Rumo ao Bilhão",
+          "url": "https://www.youtube.com/watch?v=CBpJqmj90QY"
         },
         {
           "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
