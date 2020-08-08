@@ -60,42 +60,42 @@
           "url": "https://www.youtube.com/watch?v=CBpJqmj90QY"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "3 Investimentos Para Iniciantes na Bolsa de Valores",
+          "url": "https://www.youtube.com/watch?v=-sGOvusS5NI"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Como Pedirt Almento e Ganhar Mais",
+          "url": "https://www.youtube.com/watch?v=2Vj7rJrs3Ak"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "A Arca - Minha Filosofia de Investimentos",
+          "url": "https://www.youtube.com/watch?v=PPYg9hef0Yg"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Joel Jota",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Alta Performance",
+        "url": "https://www.youtube.com/c/JoelJota/featured"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Alta Performance",
+          "url": "https://www.youtube.com/c/JoelJota/videos"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "O Sucesso É Treinável",
+          "url": "https://www.youtube.com/watch?v=kniTLMVKceI&t=1s"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "A Subida Solitária",
+          "url": "https://www.youtube.com/watch?v=iT6ul7mKDnc"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Como Conquistar Seu Objetivo",
+          "url": "https://www.youtube.com/watch?v=zI9JwgJBTaQ"
         }
       ]
     },
